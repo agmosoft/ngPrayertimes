@@ -1,0 +1,35 @@
+{
+  "name": "ngPrayertimes",
+  "version": "0.0.1",
+  "homepage": "https://github.com/agmosoft/ngPrayertimes",
+  "authors": [
+    "zafer <zafer@agmosoft.com>"
+  ],
+  "description": "A Prayertimes angular module",
+  "main": "ngPrayertimes.js",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "keywords": [
+    "namaz",
+    "islam",
+    "prayertimes"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lodash": "~2.4.1",
+    "ng-lodash": "~0.0.2"
+  }
+}
